@@ -1,3 +1,4 @@
+![](https://github.com/coconath0/coconath0/blob/main/nathaly-welcome.gif)
 
 <h1 align="center">Hi, I'm Nathaly Ingol 🦦</h1>
 <h3 align="center">Front-End developer in progress based in USA.</h3>
