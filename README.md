@@ -3,7 +3,8 @@
 <h1 align="center">Hi, I'm Nathaly Ingol 🦦</h1>
 <h3 align="center">Software Developer in progress based in USA.</h3>
 
-### About me:
+## About me
+Senior at Texas State University, majoring in Computer Science with minors of Data Analytics & Applied Mathematics.
 
 - 🌸 I’m currently working on:
   * [Personal Website](https://github.com/coconath0/portfolio-nath) (Private repository)
@@ -25,8 +26,14 @@
   * [Linkedin](https://www.linkedin.com/in/nathaly-ingol-leon/)
   * [Instagram](https://instagram.com/nathalying_)
 
+## Fun Facts about me ✨
 
-<h3 align="left">Languages and Tools:</h3>
+* I love matcha latte and any type of tea. 🍵
+* You can find my gaming or drawing on my free time! Drawing account: [@coconath.png](https://www.instagram.com/coconath.png/) 🎨
+* I'm volunteering as a Community Manager at By My Side, an emotional support platform. 🌸
+
+## Languages and Tools:
+
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -41,3 +48,9 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+## Github Stats coming soon...! 
+![](https://github.com/coconath0/coconath0/blob/main/Loading-animation.gif)
+
+
+<!--![Nathaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=coconath0&theme=gruvbox_light&show_icons=true) -->
