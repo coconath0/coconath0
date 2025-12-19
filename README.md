@@ -14,6 +14,10 @@
   * Web Development
   * UI/UX Design
 
+- 🌱 Interests:
+  * Web Development
+  * Software Engineering
+
 - 🎀 All of my projects are available at my [Portfolio](https://nathalyingol.netlify.app/)
 
 - 💌 Connect with me:
