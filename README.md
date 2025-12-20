@@ -9,6 +9,7 @@ Senior at Texas State University, majoring in Computer Science with minors of Da
 - 🌸 I’m currently working on:
   * [Personal Website](https://github.com/coconath0/portfolio-nath) (Private repository)
   * School & personal projects
+  * Starting my [Blog Wbsite](https://nathalyingol.wordpress.com/) on Wordpress! 
 
 - 🌷 I’m currently learning:
   * React, MongoDB, ...
@@ -25,6 +26,7 @@ Senior at Texas State University, majoring in Computer Science with minors of Da
   * [Email](nmileon04@gmail.com)
   * [Linkedin](https://www.linkedin.com/in/nathaly-ingol-leon/)
   * [Instagram](https://instagram.com/nathalying_)
+  * Other [socials](https://linktr.ee/nmil5)
 
 ## Fun Facts about me ✨
 
