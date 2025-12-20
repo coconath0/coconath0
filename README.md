@@ -26,7 +26,7 @@ Senior at Texas State University, majoring in Computer Science with minors of Da
   * [Email](nmileon04@gmail.com)
   * [Linkedin](https://www.linkedin.com/in/nathaly-ingol-leon/)
   * [Instagram](https://instagram.com/nathalying_)
-  * Other [socials](https://linktr.ee/nmil5)
+  * [Other socials](https://linktr.ee/nmil5)
 
 ## Fun Facts about me ✨
 
