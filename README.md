@@ -79,10 +79,6 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
 
 <div align="center">
 
-![Nathaly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coconath0&theme=rose_pine&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coconath0&layout=compact&theme=rose_pine&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=coconath0&theme=rose_pine&hide_border=true)
 
 </div>
