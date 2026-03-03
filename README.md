@@ -65,7 +65,7 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Data & AI/ML**  
+**Data & ML**  
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
