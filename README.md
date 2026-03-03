@@ -1,4 +1,4 @@
-![](https://github.com/coconath0/coconath0/blob/main/nath-welcome-banner.gif)
+![](https://github.com/coconath0/coconath0/blob/main/nathaly-welcome.gif)
 
 
 <div align="center">
