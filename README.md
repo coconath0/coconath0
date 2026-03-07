@@ -14,8 +14,8 @@
 
 ## About me
 
-**Senior Computer Science student @ Texas State University** · Graduating May 2026  
-Minor in **Data Analytics**· Bilingual 🇺🇸🇵🇪
+**Senior Computer Science student @ Texas State University**. Graduating May 2026  
+Minor in **Data Analytics**. Bilingual 🇺🇸🇵🇪
 
 I'm a full-stack developer and data enthusiast with a passion for building intuitive, scalable web apps and exploring AI/ML. I started my engineering journey at Universidad de Lima (Peru), transferred to TXST, and haven't stopped building since.
 
