@@ -1,4 +1,4 @@
-![](https://github.com/coconath0/coconath0/blob/main/nathaly-welcome.gif)
+![](https://github.com/coconath0/coconath0/blob/main/nath-welcome-banner.gif)
 
 
 <div align="center">
@@ -10,24 +10,26 @@
 </div>
 
 <h1 align="center">Hi, I'm Nathaly Ingol 🦦</h1>
-<h3 align="center">Software Developer in progress based in USA.</h3>
+<h3 align="center">Software Developer . Data Engineer . AI/ML Enthusiast based in Austin, TX 🌸</h3>
 
 ## About me
 
-**Senior Computer Science student @ Texas State University** · Graduating May 2026  
-Minor in **Data Analytics**· Bilingual 🇺🇸🇵🇪
+**Senior Computer Science student @ Texas State University**. Graduating May 2026  
+Minor in **Data Analytics**. Bilingual 🇺🇸🇵🇪
 
 I'm a full-stack developer and data enthusiast with a passion for building intuitive, scalable web apps and exploring AI/ML. I started my engineering journey at Universidad de Lima (Peru), transferred to TXST, and haven't stopped building since.
 
-> 🌸 Open to full-time roles in **Software Engineering**, **Data Engineering**, or **AI/ML** - starting Summer 2026!
+> 🌸 Open to full-time roles in **Software Engineering**, **Web Development**, **Data Engineering**, or **AI/ML** - starting Summer 2026!
 
 ## 🌸 I’m currently working on:
 
 | Project | Description | Stack |
 |---|---|---|
-| 🐾 [Pet Adoption System](https://github.com/coconath0) | Full-stack app with REST API, CRUD ops & responsive UI | Node.js, JS, HTML, CSS |
-| 🌐 [Personal Portfolio](https://nathalyingol.netlify.app/) | My dev portfolio (private repo) | React, Vite |
-| 📝 [Blog](https://nathalyingol.wordpress.com/) | Writing about tech & life | WordPress |
+| 🌐 [Personal Portfolio](https://nathalyingol.netlify.app/) | Fully custom portfolio with Gemini AI assistant, virtual resume & SEO | Astro, TypeScript, Tailwind CSS |
+| 🏦 SingleWallet | Full-stack group banking app with secure account management | Angular, Spring Boot, Java |
+| 🌤️ [OpenWeather Agent](https://github.com/coconath0/openweather-agent) | Agentic weather assistant with natural language queries | React, FastAPI, LangChain, Gemini |
+| 🐾 [Pet Adoption System](https://github.com/coconath0) | Full-stack app with REST API, CRUD ops & responsive UI | Node.js, JavaScript, HTML, CSS |
+
 
 ## 🏆 Highlights
 
@@ -54,12 +56,12 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)
 
 **Backend & Database**  
@@ -71,6 +73,10 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Data & ML**  
+<<<<<<< HEAD
+=======
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+>>>>>>> 925e5e19a5e6a9c1248f5c1a58fb06aa1e175665
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Orange 3](https://img.shields.io/badge/Orange_3-FF6600?style=flat-square)
