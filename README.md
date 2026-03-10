@@ -38,8 +38,11 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
   * 🔬 Built an **XGBoost ML pipeline** on 1.26M records → 70% hazard recall  
 
 ## 🌱 Interests:
-  * Web Development
-  * Software Engineering
+* Software Engineering
+* Web Development & UI/UX Design
+* Data Engineering
+* AI / ML Development
+* Building things that are both functional *and* beautiful ✨
 
 ## 🛠️ Languages & Tools
 
@@ -62,16 +65,27 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
 **Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**Data & AI/ML**  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+**Data & ML**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Orange 3](https://img.shields.io/badge/Orange_3-FF6600?style=flat-square)
+
+**AI & Agents**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 
