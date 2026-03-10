@@ -73,10 +73,7 @@ I'm a full-stack developer and data enthusiast with a passion for building intui
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Data & ML**  
-<<<<<<< HEAD
-=======
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
->>>>>>> 925e5e19a5e6a9c1248f5c1a58fb06aa1e175665
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Orange 3](https://img.shields.io/badge/Orange_3-FF6600?style=flat-square)
