@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Nathaly Ingol 🦦</h1>
-<h3 align="center">Software Developer . Data Engineer . AI/ML Enthusiast based in Austin, TX 🌸</h3>
+<h3 align="center">Software Developer . Web Developer . AI Enthusiast based in Austin, TX 🌸</h3>
 
 ## About me
 
